@@ -12,10 +12,10 @@ Your comprehensive portal for CSS/PMS exam preparation resources.<br><br>
 - **Motivational Quote Generator:** Inspires students with 100 specialized CSS/PMS/Competitive Exam-related quotes.<br>
 - **Modern and Clean Design with Smooth Animations:** Provides an engaging user experience.<br><br>
 
-📬 **Contact:** [csspms.grammar@example.com](mailto:csspms.grammar@example.com) | +923338940093
+📬 **Contact:** [csspms.grammar@example.com](mailto:csspms.grammar@gmail.com) | +923338940093
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/csspms.grammar) [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://facebook.com/csspms.grammar) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://telegram.me/csspms.grammar)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/csspms.grammar) [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://facebook.com/csspms.grammar) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
