@@ -37,10 +37,6 @@ Your comprehensive portal for CSS/PMS exam preparation resources.<br><br>
 ---
 [![](https://visitcount.itsvg.in/api?id=YourGitHubUsername&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
 ## 📥 Installation & Setup
 
 To get a local copy up and running, follow these simple steps:
@@ -63,10 +59,11 @@ To get a local copy up and running, follow these simple steps:
 - **Get Inspired:** Enjoy motivational quotes that change every 15 seconds to keep you motivated during your exam preparations.
 - **Toggle Themes:** Switch between light and dark modes for a comfortable viewing experience.
 
-## 📷 Screenshots
+## 📷 Screenshots/Live Demo
+
+https://jamshaidahmedd.github.io/CSSPMS.GRAMMAR/
 
 ![Screenshot1](path_to_screenshot1.png)
-![Screenshot2](path_to_screenshot2.png)
 
 ## 🤝 Contributing
 
@@ -89,42 +86,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
 - [Visit Count](https://github.com/antonkomarev/github-profile-views-counter)
-
----
-
-<!-- End of README.md -->
-
-### **Notes:**
-
-1. **Replace Placeholders:**
-    - **`YourGitHubUsername`**: Replace with your actual GitHub username.
-    - **Contact Information**: Update the email and phone number as needed.
-    - **Screenshots**: Replace `path_to_screenshot1.png` and `path_to_screenshot2.png` with actual paths to your project screenshots.
-
-2. **Badges:**
-    - Ensure all badge links (like GitHub Stats, Trophies, etc.) are correctly pointing to your GitHub profile.
-    - You can customize badge themes and styles as per your preference.
-
-3. **Sections Explained:**
-    - **About:** Provides an overview of your project, its features, and focus areas.
-    - **Socials:** Quick access to your social media profiles.
-    - **Tech Stack:** Displays the technologies used in the project with visual badges.
-    - **GitHub Stats & Trophies:** Showcases your GitHub activity and achievements.
-    - **Random Dev Quote:** Adds a dynamic and engaging element to your README.
-    - **Top Contributed Repo:** Highlights your top repositories based on contributions.
-    - **Visit Count:** Tracks the number of visits to your GitHub profile.
-    - **Installation & Setup:** Guides users on how to set up the project locally.
-    - **Usage:** Explains how to use the project.
-    - **Screenshots:** Visual representation of the project.
-    - **Contributing:** Encourages others to contribute to your project.
-    - **License:** Information about the project's licensing.
-    - **Acknowledgements:** Credits to tools and resources used.
-
-4. **Customization:**
-    - Feel free to add or remove sections based on your project's requirements.
-    - You can also add a **"Demo"** section with a live link to your deployed project if available.
-
-5. **Formatting:**
-    - Ensure that all Markdown syntax is correctly applied for optimal rendering on GitHub.
-    - Use consistent styling for headers, lists, and badges for a professional appearance.
-
