@@ -1,0 +1,19 @@
+:root {
+    /* Light Theme Colors */
+    --primary-color: #ffffff;
+    --secondary-color: #f0f0f0;
+    --accent-color: #25D366; /* WhatsApp Green */
+    --highlight-color: #ff5722;
+    --text-color: #333333;
+    --background-gradient: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+}
+
+[data-theme="dark"] {
+    /* Dark Theme Colors */
+    --primary-color: #1e1e1e;
+    --secondary-color: #2c2c2c;
+    --accent-color: #25D366; /* WhatsApp Green */
+    --highlight-color: #ff5722;
+    --text-color: #ffffff;
+    --background-gradient: linear-gradient(135deg, #434343 0%, #000000 100%);
+}
